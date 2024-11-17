@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".RegistrarPublicacion">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="280dp"
+            android:layout_gravity="center"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="Registro usuario personal"
+            android:layout_marginBottom="50dp"
+            android:textColor="@color/teal_700"
+            android:layout_marginTop="15dp"/>
+        <EditText
+            android:id="@+id/RPUpublicacion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textMultiLine"
+            android:lines="8"
+            android:maxLines="10"
+            android:minLines="6"
+            android:scrollbars="vertical"/>
+        <Button
+            android:id="@+id/RPUregistrar"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:text="Registrarse"
+            android:background="@drawable/border_button"
+            android:textColor="@color/white"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:padding="20dp"/>
+    </LinearLayout>
+
+</FrameLayout>

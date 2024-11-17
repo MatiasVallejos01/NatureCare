@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/drawable/border_button.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/drawable/border_text.xml" value="0.19074074074074074" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/drawable/button_border.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/drawable/ic_menu.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_bottom_bar.xml" value="0.2767210144927536" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_carro_compras.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_eleccion_registro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_foro.xml" value="0.33" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_main2.xml" value="0.11911231884057971" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_producto_guardado.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_producto_seleccionado.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_publicacion_seleccionada.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_publicaciones_guardadas.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_registrar_producto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_registro_empresarial.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_registro_publicacion.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_registro_usuario.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/activity_tienda.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/fragment_foro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/fragment_primer_contenedor.xml" value="0.25" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/fragment_segundo_contenedor.xml" value="0.22" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/fragment_tienda.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/grafico_navegacion.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/registro_empresarial.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/layout/registro_usuario.xml" value="0.25" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/menu/bottom_nav_menu.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/NatureCare/app/src/main/res/menu/bottom_navigation.xml" value="0.33" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/border_button.xml" value="0.3574074074074074" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_add.xml" value="0.3574074074074074" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_cart_shopp.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_comment.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_email.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_favorite.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_favorite_border.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_house.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_lock.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_menu.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_menu_open.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_person.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_phone.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_save.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_save_border.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/drawable/ic_store.xml" value="0.3828125" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/activity_carro_compras.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/activity_eleccion_registro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/activity_foro.xml" value="0.25" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/activity_producto_guardado.xml" value="0.1" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/activity_producto_seleccionado.xml" value="0.1" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/activity_publicaciones_guardadas.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/activity_registrar_producto.xml" value="0.1" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/activity_registro_empresarial.xml" value="0.33" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/activity_registro_publicacion.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/activity_registro_usuario.xml" value="0.25" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/activity_tienda.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/carro_compra.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/compra.xml" value="0.25" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/fragment_agregar_carro.xml" value="0.1" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/fragment_carro_compra.xml" value="0.25" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/fragment_primer_contenedor.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/fragment_producto_guardado.xml" value="0.1" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/fragment_producto_seleccionado.xml" value="0.1" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/fragment_publicacion_guardada.xml" value="0.1" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/fragment_publicacion_seleccionada.xml" value="0.25" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/fragment_registrar_producto.xml" value="0.22" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/fragment_registrar_publicacion.xml" value="0.25815217391304346" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/fragment_segundo_contenedor.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/lista_producto.xml" value="0.28651685393258425" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/lista_publicacion.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/listar_producto_carro.xml" value="0.25" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/mostrar_producto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/mostrar_publicacion.xml" value="0.20786516853932585" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/producto_seleccion.xml" value="0.25" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/publicacion_guardada.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/publicacion_seleccion.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/layout/toolbar_tienda.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/menu/bottom_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/menu/tool_bar.xml" value="0.25" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/menu/tool_bar_tienda.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matia/AndroidStudioProjects/Trabajo/app/src/main/res/menu/view_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/drawable/ic_share.xml" value="0.2585" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/activity_carro_compras.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/activity_foro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/activity_registro_empresarial.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/activity_registro_publicacion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/activity_registro_usuario.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/activity_tienda.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/fragment_agregar_carro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/fragment_carro_compra.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/fragment_primer_contenedor.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/fragment_producto_guardado.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/fragment_producto_seleccionado.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/fragment_publicacion_guardada.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/fragment_publicacion_seleccionada.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/fragment_registrar_producto.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/fragment_registrar_publicacion.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/fragment_segundo_contenedor.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/lista_producto.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/lista_publicacion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/listar_producto_carro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/mostrar_producto.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/mostrar_publicacion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/mostrarp_producto.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/producto_guardado.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/publicacion_guardada.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/layout/toolbar_tienda.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/menu/tool_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/matia/StudioProjects/NatureCare/app/src/main/res/menu/tool_bar_tienda.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
